@@ -1296,9 +1296,7 @@ sup {
      object-fit: contain;
   width: auto;
 }
-#header span {
-  white-space: nowrap;
-}
+
 .post {
   padding: 5em 0;
 }
