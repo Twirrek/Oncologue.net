@@ -3,12 +3,53 @@
     <title>Oncologue.net</title>
     <link href="https://Oncologue.net/feed.xml" rel="self" />
     <link href="https://Oncologue.net" />
-    <updated>2024-10-14T06:50:28+02:00</updated>
+    <updated>2024-10-14T17:23:42+02:00</updated>
     <author>
         <name>Dr Mohammed-Amine Bensakhria</name>
     </author>
     <id>https://Oncologue.net</id>
 
+    <entry>
+        <title>Elections de L&#x27;ordre 2024</title>
+        <author>
+            <name>Dr Mohammed-Amine Bensakhria</name>
+        </author>
+        <link href="https://Oncologue.net/elections/"/>
+        <id>https://Oncologue.net/elections/</id>
+        <media:content url="https://Oncologue.net/media/posts/7/800px-ConseilnationaldelOrdredesmedecinslogo-2.jpg" medium="image" />
+            <category term="Elections"/>
+
+        <updated>2024-10-14T17:07:09+02:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://Oncologue.net/media/posts/7/800px-ConseilnationaldelOrdredesmedecinslogo-2.jpg" alt="" />
+                    Tous les membres des conseils de l'Ordre sont élus par les médecins pour six ans. En s’engageant dans les territoires,&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://Oncologue.net/media/posts/7/800px-ConseilnationaldelOrdredesmedecinslogo-2.jpg" class="type:primaryImage" alt="" /></p>
+                <div class="node-summary-wrapper">
+<div class="field field-name-field-summary field-type-text-long field-label-hidden">
+<div class="field-items">
+<div class="field-item even"> </div>
+<div> </div>
+<div> </div>
+<div> </div>
+<div class="field-item even">Tous les membres des conseils de l'Ordre sont élus par les médecins pour six ans.</div>
+</div>
+</div>
+</div>
+<div class="node-body-wrapper">
+<div class="field field-name-body field-type-text-with-summary field-label-hidden">
+<div class="field-items">
+<div class="field-item even">En s’engageant dans les territoires, les élus ordinaux constituent les fondations de l’Institution.<br>Les mandats ont une durée de 6 ans et le renouvellement des conseils s’effectue par moitié tous les 3 ans, la parité est totale à tous les échelons ordinaux (conseil national, conseils départementaux, régionaux et interrégionaux).<br>Retrouvez toutes les informations dans le règlement électoral pour présenter vos candidatures lors des élections.<br><br>Présentez-vous et votez !<br> </div>
+</div>
+</div>
+</div>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>test test</title>
         <author>
@@ -64,7 +105,8 @@
         <content type="html">
             <![CDATA[
                     <p><img src="https://Oncologue.net/media/posts/5/20042022_160436_25365_gastro-01.png" class="type:primaryImage" alt="" /></p>
-                <h3 id="Champ_général">Champ général</h3>
+                <h3> </h3>
+<h3 id="Champ_général">Champ général</h3>
 <p>La gastro-entérologie s'intéresse à l'ensemble du <a href="https://fr.wikipedia.org/wiki/Syst%C3%A8me_digestif_humain" class="mw-redirect" title="Système digestif humain">tube digestif</a>, du <a href="https://fr.wikipedia.org/wiki/Pharynx" title="Pharynx">pharynx</a> jusqu'à l'anus, en passant par les organes digestifs intra-abdominaux que sont le foie, les voies biliaires et le pancréas (excepté dans sa fonction endocrine, qui relève de l'<a href="https://fr.wikipedia.org/wiki/Endocrinologie" title="Endocrinologie">endocrinologie</a>)<sup id="cite_ref-1" class="reference"><a href="https://fr.wikipedia.org/wiki/Gastro-ent%C3%A9rologie#cite_note-1">1</a></sup>. Si la gastro-entérologie est une spécialité médicale, les médecins la pratiquant réalisent couramment des actes techniques, comme les endoscopies digestives (par exemple <a href="https://fr.wikipedia.org/wiki/Endoscopie_digestive_haute" title="Endoscopie digestive haute">œso-gastro-duodénoscopie</a> et <a href="https://fr.wikipedia.org/wiki/Colonoscopie" class="mw-redirect" title="Colonoscopie">colonoscopie</a>) et des gestes utilisant des techniques de <a href="https://fr.wikipedia.org/wiki/Radiologie_interventionnelle" title="Radiologie interventionnelle">radiologie interventionnelle</a> (par exemple les <a href="https://fr.wikipedia.org/w/index.php?title=Cholangiographie&amp;action=edit&amp;redlink=1" class="new" title="Cholangiographie (page inexistante)">cholangiographies</a><sup id="cite_ref-2" class="reference"><a href="https://fr.wikipedia.org/wiki/Gastro-ent%C3%A9rologie#cite_note-2">2</a></sup>).</p>
 <div class="mw-heading mw-heading3">
 <h3 id="Surspécialisation"><span id="Sursp.C3.A9cialisation"></span>Surspécialisation</h3>
@@ -104,7 +146,6 @@
 <p>Phasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue. Curabitur ullamcorper ultricies nisi. Nam eget dui. Etiam rhoncus. Maecenas tempus, tellus eget condimentum rhoncus, sem quam semper libero, sit amet adipiscing sem neque sed ipsum. Nam quam nunc, blandit vel, luctus pulvinar.</p>
 <p> </p>
 <p> </p>
-<p>jhjhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh</p>
             ]]>
         </content>
     </entry>
@@ -118,14 +159,10 @@
             <category term="ORL"/>
 
         <updated>2024-10-14T01:28:36+02:00</updated>
-            <summary>
-                <![CDATA[
-                    kkjkljkljkj
-                ]]>
-            </summary>
+            <summary></summary>
         <content type="html">
             <![CDATA[
-                <p>kkjkljkljkj</p>
+                <figure class="post__image"><img loading="lazy"  src="https://Oncologue.net/media/posts/1/gastroenterologie-personnalise.jpg" alt="" width="645" height="430" sizes="(max-width: 48em) 100vw, 768px" srcset="https://Oncologue.net/media/posts/1/responsive/gastroenterologie-personnalise-xs.jpg 300w ,https://Oncologue.net/media/posts/1/responsive/gastroenterologie-personnalise-sm.jpg 480w ,https://Oncologue.net/media/posts/1/responsive/gastroenterologie-personnalise-md.jpg 768w"></figure>
             ]]>
         </content>
     </entry>
