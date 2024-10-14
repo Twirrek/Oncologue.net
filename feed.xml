@@ -3,7 +3,7 @@
     <title>Oncologue.net</title>
     <link href="https://Oncologue.net/feed.xml" rel="self" />
     <link href="https://Oncologue.net" />
-    <updated>2024-10-14T17:23:42+02:00</updated>
+    <updated>2024-10-14T18:04:49+02:00</updated>
     <author>
         <name>Dr Mohammed-Amine Bensakhria</name>
     </author>
@@ -51,23 +51,26 @@
         </content>
     </entry>
     <entry>
-        <title>test test</title>
+        <title>Gastro Poumon</title>
         <author>
             <name>Dr Mohammed-Amine Bensakhria</name>
         </author>
         <link href="https://Oncologue.net/test-test/"/>
         <id>https://Oncologue.net/test-test/</id>
+        <media:content url="https://Oncologue.net/media/posts/6/gastroenterologie-personnalise.jpg" medium="image" />
             <category term="poumon"/>
             <category term="Gastro"/>
 
         <updated>2024-10-14T06:49:25+02:00</updated>
             <summary>
                 <![CDATA[
+                        <img src="https://Oncologue.net/media/posts/6/gastroenterologie-personnalise.jpg" alt="" />
                     jhhjhjhkhl,;:,:;,: bnl;,;,;,;, n;nn bb,bnbnbb,nbn,bn,b, b,bb,b ,b,b,b,b, ,b,b,b,b,b,b,b,b,b,b,,b,b,b 😀🥰 nn;n,n,n,n;n;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
+                    <p><img src="https://Oncologue.net/media/posts/6/gastroenterologie-personnalise.jpg" class="type:primaryImage" alt="" /></p>
                 <p class="msg msg--info msg--highlight ">jhhjhjhkhl,;:,:;,:</p>
 <p> </p>
 <p class="msg msg--info msg--highlight "><span style="background-color: rgba(var(--success-rgb), 0.1); color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);">bnl;,;,;,;, n;nn bb,bnbnbb,nbn,bn,b,                             b,bb,b ,b,b,b,b, ,b,b,b,b,b,b,b,b,b,b,,b,b,b<br><br></span></p>
@@ -86,7 +89,7 @@
         </content>
     </entry>
     <entry>
-        <title>Gastro</title>
+        <title>GASTRO 1</title>
         <author>
             <name>Dr Mohammed-Amine Bensakhria</name>
         </author>
@@ -116,25 +119,25 @@
         </content>
     </entry>
     <entry>
-        <title>waw</title>
+        <title>POUMON 1</title>
         <author>
             <name>Dr Mohammed-Amine Bensakhria</name>
         </author>
         <link href="https://Oncologue.net/waw/"/>
         <id>https://Oncologue.net/waw/</id>
-        <media:content url="https://Oncologue.net/media/posts/4/dino-reichmuth-A5rCN8626Ck-unsplash-xxl.jpg" medium="image" />
+        <media:content url="https://Oncologue.net/media/posts/4/poumons_ok.jpg" medium="image" />
             <category term="poumon"/>
 
         <updated>2024-10-14T02:21:11+02:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://Oncologue.net/media/posts/4/dino-reichmuth-A5rCN8626Ck-unsplash-xxl.jpg" alt="" />
+                        <img src="https://Oncologue.net/media/posts/4/poumons_ok.jpg" alt="" />
                     Aenean ornare velit lacus, ac varius enim ullamcorper eu. Proin aliquam facilisis ante interdum congue. Integer mollis, nisl amet convallis,&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://Oncologue.net/media/posts/4/dino-reichmuth-A5rCN8626Ck-unsplash-xxl.jpg" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://Oncologue.net/media/posts/4/poumons_ok.jpg" class="type:primaryImage" alt="" /></p>
                 <figure class="post__image post__image--left"><img loading="lazy"  src="https://Oncologue.net/media/posts/4/who-s-denilo-SxwS5ywwOhc-unsplash-xxl.jpg" alt="" width="1600" height="1067" sizes="(max-width: 48em) 100vw, 768px" srcset="https://Oncologue.net/media/posts/4/responsive/who-s-denilo-SxwS5ywwOhc-unsplash-xxl-xs.jpg 300w ,https://Oncologue.net/media/posts/4/responsive/who-s-denilo-SxwS5ywwOhc-unsplash-xxl-sm.jpg 480w ,https://Oncologue.net/media/posts/4/responsive/who-s-denilo-SxwS5ywwOhc-unsplash-xxl-md.jpg 768w"></figure>
 <p>Aenean ornare velit lacus, ac varius enim ullamcorper eu. Proin aliquam facilisis ante interdum congue. Integer mollis, nisl amet convallis, porttitor magna ullamcorper, amet egestas mauris. Ut magna finibus nisi nec lacinia. Nam maximus erat id euismod egestas. Pellentesque sapien ac quam. Lorem ipsum dolor sit nullam.</p>
 <h2><strong>Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem:</strong> </h2>
@@ -150,19 +153,32 @@
         </content>
     </entry>
     <entry>
-        <title>video</title>
+        <title>ORL 1</title>
         <author>
             <name>Dr Mohammed-Amine Bensakhria</name>
         </author>
         <link href="https://Oncologue.net/video/"/>
         <id>https://Oncologue.net/video/</id>
+        <media:content url="https://Oncologue.net/media/posts/1/41-1024x1024.png" medium="image" />
             <category term="ORL"/>
 
         <updated>2024-10-14T01:28:36+02:00</updated>
-            <summary></summary>
+            <summary>
+                <![CDATA[
+                        <img src="https://Oncologue.net/media/posts/1/41-1024x1024.png" alt="" />
+                    Un cancer des voies aérodigestives supérieures (ou improprement cancer de la tête et du cou) est un cancer localisé au&hellip;
+                ]]>
+            </summary>
         <content type="html">
             <![CDATA[
-                <figure class="post__image"><img loading="lazy"  src="https://Oncologue.net/media/posts/1/gastroenterologie-personnalise.jpg" alt="" width="645" height="430" sizes="(max-width: 48em) 100vw, 768px" srcset="https://Oncologue.net/media/posts/1/responsive/gastroenterologie-personnalise-xs.jpg 300w ,https://Oncologue.net/media/posts/1/responsive/gastroenterologie-personnalise-sm.jpg 480w ,https://Oncologue.net/media/posts/1/responsive/gastroenterologie-personnalise-md.jpg 768w"></figure>
+                    <p><img src="https://Oncologue.net/media/posts/1/41-1024x1024.png" class="type:primaryImage" alt="" /></p>
+                <p>Un <strong>cancer des voies aérodigestives supérieures</strong> (ou improprement <strong>cancer de la tête et du cou</strong>) est un <a href="https://fr.wikipedia.org/wiki/Cancer" title="Cancer">cancer</a> localisé au niveau des <a href="https://fr.wikipedia.org/wiki/Voies_a%C3%A9rodigestives_sup%C3%A9rieures" title="Voies aérodigestives supérieures">voies aérodigestives supérieures</a>, ce qui regroupe les <a href="https://fr.wikipedia.org/wiki/Sinus_paranasal" title="Sinus paranasal">sinus</a>, les <a href="https://fr.wikipedia.org/wiki/Fosses_nasales" class="mw-redirect" title="Fosses nasales">fosses nasales</a>, le <a href="https://fr.wikipedia.org/wiki/Pharynx" title="Pharynx">pharynx</a> (composé du <a href="https://fr.wikipedia.org/wiki/Nasopharynx" class="mw-redirect" title="Nasopharynx">nasopharynx</a>, de l'<a href="https://fr.wikipedia.org/wiki/Oropharynx" class="mw-redirect" title="Oropharynx">oropharynx</a> et de l'<a href="https://fr.wikipedia.org/wiki/Hypopharynx" title="Hypopharynx">hypopharynx</a>), la <a href="https://fr.wikipedia.org/wiki/Bouche_humaine" title="Bouche humaine">cavité buccale</a> et le <a href="https://fr.wikipedia.org/wiki/Larynx" title="Larynx">larynx</a>. Outre la localisation, ce type de cancer partage, pour un certain nombre, plusieurs éléments : survenue liée à la consommation importante d'<a href="https://fr.wikipedia.org/wiki/Alcoolisme" title="Alcoolisme">alcool</a> et de <a href="https://fr.wikipedia.org/wiki/Tabagisme" title="Tabagisme">tabac</a>, type histologique de <a href="https://fr.wikipedia.org/wiki/Carcinome_%C3%A9pidermo%C3%AFde" title="Carcinome épidermoïde">carcinome épidermoïde</a>, exploration médicale <a href="https://fr.wikipedia.org/wiki/Otorhinolaryngologie" title="Otorhinolaryngologie">ORL</a> stéréotypée.</p>
+<p>On distingue notamment parmi eux :</p>
+<ul>
+<li>le <a href="https://fr.wikipedia.org/wiki/Cancer_de_la_bouche" title="Cancer de la bouche">cancer de la bouche</a>,</li>
+<li>le <a href="https://fr.wikipedia.org/wiki/Cancer_du_larynx" title="Cancer du larynx">cancer du larynx</a>,</li>
+<li>le <a href="https://fr.wikipedia.org/wiki/Carcinome_du_nasopharynx" title="Carcinome du nasopharynx">cancer du nasopharynx</a>.</li>
+</ul>
             ]]>
         </content>
     </entry>
