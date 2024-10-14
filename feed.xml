@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>Oncologue.net</title>
-    <link href="https://twirrek.github.io/Oncologue.net/feed.xml" rel="self" />
-    <link href="https://twirrek.github.io/Oncologue.net" />
+    <link href="https://Oncologue.net/feed.xml" rel="self" />
+    <link href="https://Oncologue.net" />
     <updated>2024-10-14T06:50:28+02:00</updated>
     <author>
         <name>tarik</name>
     </author>
-    <id>https://twirrek.github.io/Oncologue.net</id>
+    <id>https://Oncologue.net</id>
 
     <entry>
         <title>test test</title>
         <author>
             <name>tarik</name>
         </author>
-        <link href="https://twirrek.github.io/Oncologue.net/test-test.html"/>
-        <id>https://twirrek.github.io/Oncologue.net/test-test.html</id>
+        <link href="https://Oncologue.net/test-test/"/>
+        <id>https://Oncologue.net/test-test/</id>
             <category term="poumon"/>
             <category term="Gastro"/>
 
@@ -49,21 +49,21 @@
         <author>
             <name>tarik</name>
         </author>
-        <link href="https://twirrek.github.io/Oncologue.net/gastro.html"/>
-        <id>https://twirrek.github.io/Oncologue.net/gastro.html</id>
-        <media:content url="https://twirrek.github.io/Oncologue.net/media/posts/5/20042022_160436_25365_gastro-01.png" medium="image" />
+        <link href="https://Oncologue.net/gastro/"/>
+        <id>https://Oncologue.net/gastro/</id>
+        <media:content url="https://Oncologue.net/media/posts/5/20042022_160436_25365_gastro-01.png" medium="image" />
             <category term="Gastro"/>
 
         <updated>2024-10-14T06:39:14+02:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://twirrek.github.io/Oncologue.net/media/posts/5/20042022_160436_25365_gastro-01.png" alt="" />
+                        <img src="https://Oncologue.net/media/posts/5/20042022_160436_25365_gastro-01.png" alt="" />
                     Champ général La gastro-entérologie s'intéresse à l'ensemble du tube digestif, du pharynx jusqu'à l'anus, en passant par les organes digestifs&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://twirrek.github.io/Oncologue.net/media/posts/5/20042022_160436_25365_gastro-01.png" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://Oncologue.net/media/posts/5/20042022_160436_25365_gastro-01.png" class="type:primaryImage" alt="" /></p>
                 <h3 id="Champ_général">Champ général</h3>
 <p>La gastro-entérologie s'intéresse à l'ensemble du <a href="https://fr.wikipedia.org/wiki/Syst%C3%A8me_digestif_humain" class="mw-redirect" title="Système digestif humain">tube digestif</a>, du <a href="https://fr.wikipedia.org/wiki/Pharynx" title="Pharynx">pharynx</a> jusqu'à l'anus, en passant par les organes digestifs intra-abdominaux que sont le foie, les voies biliaires et le pancréas (excepté dans sa fonction endocrine, qui relève de l'<a href="https://fr.wikipedia.org/wiki/Endocrinologie" title="Endocrinologie">endocrinologie</a>)<sup id="cite_ref-1" class="reference"><a href="https://fr.wikipedia.org/wiki/Gastro-ent%C3%A9rologie#cite_note-1">1</a></sup>. Si la gastro-entérologie est une spécialité médicale, les médecins la pratiquant réalisent couramment des actes techniques, comme les endoscopies digestives (par exemple <a href="https://fr.wikipedia.org/wiki/Endoscopie_digestive_haute" title="Endoscopie digestive haute">œso-gastro-duodénoscopie</a> et <a href="https://fr.wikipedia.org/wiki/Colonoscopie" class="mw-redirect" title="Colonoscopie">colonoscopie</a>) et des gestes utilisant des techniques de <a href="https://fr.wikipedia.org/wiki/Radiologie_interventionnelle" title="Radiologie interventionnelle">radiologie interventionnelle</a> (par exemple les <a href="https://fr.wikipedia.org/w/index.php?title=Cholangiographie&amp;action=edit&amp;redlink=1" class="new" title="Cholangiographie (page inexistante)">cholangiographies</a><sup id="cite_ref-2" class="reference"><a href="https://fr.wikipedia.org/wiki/Gastro-ent%C3%A9rologie#cite_note-2">2</a></sup>).</p>
 <div class="mw-heading mw-heading3">
@@ -78,22 +78,22 @@
         <author>
             <name>tarik</name>
         </author>
-        <link href="https://twirrek.github.io/Oncologue.net/waw.html"/>
-        <id>https://twirrek.github.io/Oncologue.net/waw.html</id>
-        <media:content url="https://twirrek.github.io/Oncologue.net/media/posts/4/dino-reichmuth-A5rCN8626Ck-unsplash-xxl.jpg" medium="image" />
+        <link href="https://Oncologue.net/waw/"/>
+        <id>https://Oncologue.net/waw/</id>
+        <media:content url="https://Oncologue.net/media/posts/4/dino-reichmuth-A5rCN8626Ck-unsplash-xxl.jpg" medium="image" />
             <category term="poumon"/>
 
         <updated>2024-10-14T02:21:11+02:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://twirrek.github.io/Oncologue.net/media/posts/4/dino-reichmuth-A5rCN8626Ck-unsplash-xxl.jpg" alt="" />
+                        <img src="https://Oncologue.net/media/posts/4/dino-reichmuth-A5rCN8626Ck-unsplash-xxl.jpg" alt="" />
                     Aenean ornare velit lacus, ac varius enim ullamcorper eu. Proin aliquam facilisis ante interdum congue. Integer mollis, nisl amet convallis,&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://twirrek.github.io/Oncologue.net/media/posts/4/dino-reichmuth-A5rCN8626Ck-unsplash-xxl.jpg" class="type:primaryImage" alt="" /></p>
-                <figure class="post__image post__image--left"><img loading="lazy"  src="https://twirrek.github.io/Oncologue.net/media/posts/4/who-s-denilo-SxwS5ywwOhc-unsplash-xxl.jpg" alt="" width="1600" height="1067" sizes="(max-width: 48em) 100vw, 768px" srcset="https://twirrek.github.io/Oncologue.net/media/posts/4/responsive/who-s-denilo-SxwS5ywwOhc-unsplash-xxl-xs.jpg 300w ,https://twirrek.github.io/Oncologue.net/media/posts/4/responsive/who-s-denilo-SxwS5ywwOhc-unsplash-xxl-sm.jpg 480w ,https://twirrek.github.io/Oncologue.net/media/posts/4/responsive/who-s-denilo-SxwS5ywwOhc-unsplash-xxl-md.jpg 768w"></figure>
+                    <p><img src="https://Oncologue.net/media/posts/4/dino-reichmuth-A5rCN8626Ck-unsplash-xxl.jpg" class="type:primaryImage" alt="" /></p>
+                <figure class="post__image post__image--left"><img loading="lazy"  src="https://Oncologue.net/media/posts/4/who-s-denilo-SxwS5ywwOhc-unsplash-xxl.jpg" alt="" width="1600" height="1067" sizes="(max-width: 48em) 100vw, 768px" srcset="https://Oncologue.net/media/posts/4/responsive/who-s-denilo-SxwS5ywwOhc-unsplash-xxl-xs.jpg 300w ,https://Oncologue.net/media/posts/4/responsive/who-s-denilo-SxwS5ywwOhc-unsplash-xxl-sm.jpg 480w ,https://Oncologue.net/media/posts/4/responsive/who-s-denilo-SxwS5ywwOhc-unsplash-xxl-md.jpg 768w"></figure>
 <p>Aenean ornare velit lacus, ac varius enim ullamcorper eu. Proin aliquam facilisis ante interdum congue. Integer mollis, nisl amet convallis, porttitor magna ullamcorper, amet egestas mauris. Ut magna finibus nisi nec lacinia. Nam maximus erat id euismod egestas. Pellentesque sapien ac quam. Lorem ipsum dolor sit nullam.</p>
 <h2><strong>Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem:</strong> </h2>
 <ol>
@@ -113,8 +113,8 @@
         <author>
             <name>tarik</name>
         </author>
-        <link href="https://twirrek.github.io/Oncologue.net/video.html"/>
-        <id>https://twirrek.github.io/Oncologue.net/video.html</id>
+        <link href="https://Oncologue.net/video/"/>
+        <id>https://Oncologue.net/video/</id>
             <category term="ORL"/>
 
         <updated>2024-10-14T01:28:36+02:00</updated>
