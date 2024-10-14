@@ -3,7 +3,7 @@
     <title>Oncologue.net</title>
     <link href="https://twirrek.github.io/Oncologue.net/feed.xml" rel="self" />
     <link href="https://twirrek.github.io/Oncologue.net" />
-    <updated>2024-10-14T03:28:17+02:00</updated>
+    <updated>2024-10-14T05:41:45+02:00</updated>
     <author>
         <name>tarik</name>
     </author>
@@ -16,16 +16,19 @@
         </author>
         <link href="https://twirrek.github.io/Oncologue.net/waw.html"/>
         <id>https://twirrek.github.io/Oncologue.net/waw.html</id>
+        <media:content url="https://twirrek.github.io/Oncologue.net/media/posts/4/dino-reichmuth-A5rCN8626Ck-unsplash-xxl.jpg" medium="image" />
             <category term="poumon"/>
 
         <updated>2024-10-14T02:21:11+02:00</updated>
             <summary>
                 <![CDATA[
+                        <img src="https://twirrek.github.io/Oncologue.net/media/posts/4/dino-reichmuth-A5rCN8626Ck-unsplash-xxl.jpg" alt="" />
                     Aenean ornare velit lacus, ac varius enim ullamcorper eu. Proin aliquam facilisis ante interdum congue. Integer mollis, nisl amet convallis,&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
+                    <p><img src="https://twirrek.github.io/Oncologue.net/media/posts/4/dino-reichmuth-A5rCN8626Ck-unsplash-xxl.jpg" class="type:primaryImage" alt="" /></p>
                 <figure class="post__image post__image--left"><img loading="lazy"  src="https://twirrek.github.io/Oncologue.net/media/posts/4/who-s-denilo-SxwS5ywwOhc-unsplash-xxl.jpg" alt="" width="1600" height="1067" sizes="(max-width: 48em) 100vw, 768px" srcset="https://twirrek.github.io/Oncologue.net/media/posts/4/responsive/who-s-denilo-SxwS5ywwOhc-unsplash-xxl-xs.jpg 300w ,https://twirrek.github.io/Oncologue.net/media/posts/4/responsive/who-s-denilo-SxwS5ywwOhc-unsplash-xxl-sm.jpg 480w ,https://twirrek.github.io/Oncologue.net/media/posts/4/responsive/who-s-denilo-SxwS5ywwOhc-unsplash-xxl-md.jpg 768w"></figure>
 <p>Aenean ornare velit lacus, ac varius enim ullamcorper eu. Proin aliquam facilisis ante interdum congue. Integer mollis, nisl amet convallis, porttitor magna ullamcorper, amet egestas mauris. Ut magna finibus nisi nec lacinia. Nam maximus erat id euismod egestas. Pellentesque sapien ac quam. Lorem ipsum dolor sit nullam.</p>
 <h2><strong>Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem:</strong> </h2>
