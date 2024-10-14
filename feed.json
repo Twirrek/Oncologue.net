@@ -1,13 +1,43 @@
 {
     "version": "https://jsonfeed.org/version/1",
-    "title": "Oncologie.org",
+    "title": "Oncologue.net",
     "description": "",
     "home_page_url": "https://twirrek.github.io/Oncologue.net",
     "feed_url": "https://twirrek.github.io/Oncologue.net/feed.json",
     "user_comment": "",
     "author": {
-        "name": "Mohammed-Amine Bensakhria"
+        "name": "tarik"
     },
     "items": [
+        {
+            "id": "https://twirrek.github.io/Oncologue.net/waw.html",
+            "url": "https://twirrek.github.io/Oncologue.net/waw.html",
+            "title": "waw",
+            "summary": "Aenean ornare velit lacus, ac varius enim ullamcorper eu. Proin aliquam facilisis ante interdum congue. Integer mollis, nisl amet convallis,&hellip;",
+            "content_html": "<figure class=\"post__image post__image--left\"><img loading=\"lazy\"  src=\"https://twirrek.github.io/Oncologue.net/media/posts/4/who-s-denilo-SxwS5ywwOhc-unsplash-xxl.jpg\" alt=\"\" width=\"1600\" height=\"1067\" sizes=\"(max-width: 48em) 100vw, 768px\" srcset=\"https://twirrek.github.io/Oncologue.net/media/posts/4/responsive/who-s-denilo-SxwS5ywwOhc-unsplash-xxl-xs.jpg 300w ,https://twirrek.github.io/Oncologue.net/media/posts/4/responsive/who-s-denilo-SxwS5ywwOhc-unsplash-xxl-sm.jpg 480w ,https://twirrek.github.io/Oncologue.net/media/posts/4/responsive/who-s-denilo-SxwS5ywwOhc-unsplash-xxl-md.jpg 768w\"></figure>\n<p>Aenean ornare velit lacus, ac varius enim ullamcorper eu. Proin aliquam facilisis ante interdum congue. Integer mollis, nisl amet convallis, porttitor magna ullamcorper, amet egestas mauris. Ut magna finibus nisi nec lacinia. Nam maximus erat id euismod egestas. Pellentesque sapien ac quam. Lorem ipsum dolor sit nullam.</p>\n<h2><strong>Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem:</strong> </h2>\n<ol>\n<li>In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. </li>\n<li>Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim. </li>\n<li>Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.</li>\n</ol>\n<p>Phasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue. Curabitur ullamcorper ultricies nisi. Nam eget dui. Etiam rhoncus. Maecenas tempus, tellus eget condimentum rhoncus, sem quam semper libero, sit amet adipiscing sem neque sed ipsum. Nam quam nunc, blandit vel, luctus pulvinar.</p>\n<p> </p>\n<p> </p>\n<p>jhjhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh</p>",
+            "author": {
+                "name": "tarik"
+            },
+            "tags": [
+                   "poumon"
+            ],
+            "date_published": "2024-10-14T02:21:11+02:00",
+            "date_modified": "2024-10-14T03:28:03+02:00"
+        },
+        {
+            "id": "https://twirrek.github.io/Oncologue.net/video.html",
+            "url": "https://twirrek.github.io/Oncologue.net/video.html",
+            "title": "video",
+            "summary": "kkjkljkljkj",
+            "content_html": "<p>kkjkljkljkj</p>",
+            "author": {
+                "name": "tarik"
+            },
+            "tags": [
+                   "poumon"
+            ],
+            "date_published": "2024-10-14T01:28:36+02:00",
+            "date_modified": "2024-10-14T03:28:17+02:00"
+        }
     ]
 }

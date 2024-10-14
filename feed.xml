@@ -1,12 +1,65 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
-    <title>Oncologie.org</title>
+    <title>Oncologue.net</title>
     <link href="https://twirrek.github.io/Oncologue.net/feed.xml" rel="self" />
     <link href="https://twirrek.github.io/Oncologue.net" />
-    <updated>1970-01-01T01:00:00+01:00</updated>
+    <updated>2024-10-14T03:28:17+02:00</updated>
     <author>
-        <name>Mohammed-Amine Bensakhria</name>
+        <name>tarik</name>
     </author>
     <id>https://twirrek.github.io/Oncologue.net</id>
 
+    <entry>
+        <title>waw</title>
+        <author>
+            <name>tarik</name>
+        </author>
+        <link href="https://twirrek.github.io/Oncologue.net/waw.html"/>
+        <id>https://twirrek.github.io/Oncologue.net/waw.html</id>
+            <category term="poumon"/>
+
+        <updated>2024-10-14T02:21:11+02:00</updated>
+            <summary>
+                <![CDATA[
+                    Aenean ornare velit lacus, ac varius enim ullamcorper eu. Proin aliquam facilisis ante interdum congue. Integer mollis, nisl amet convallis,&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <figure class="post__image post__image--left"><img loading="lazy"  src="https://twirrek.github.io/Oncologue.net/media/posts/4/who-s-denilo-SxwS5ywwOhc-unsplash-xxl.jpg" alt="" width="1600" height="1067" sizes="(max-width: 48em) 100vw, 768px" srcset="https://twirrek.github.io/Oncologue.net/media/posts/4/responsive/who-s-denilo-SxwS5ywwOhc-unsplash-xxl-xs.jpg 300w ,https://twirrek.github.io/Oncologue.net/media/posts/4/responsive/who-s-denilo-SxwS5ywwOhc-unsplash-xxl-sm.jpg 480w ,https://twirrek.github.io/Oncologue.net/media/posts/4/responsive/who-s-denilo-SxwS5ywwOhc-unsplash-xxl-md.jpg 768w"></figure>
+<p>Aenean ornare velit lacus, ac varius enim ullamcorper eu. Proin aliquam facilisis ante interdum congue. Integer mollis, nisl amet convallis, porttitor magna ullamcorper, amet egestas mauris. Ut magna finibus nisi nec lacinia. Nam maximus erat id euismod egestas. Pellentesque sapien ac quam. Lorem ipsum dolor sit nullam.</p>
+<h2><strong>Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem:</strong> </h2>
+<ol>
+<li>In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. </li>
+<li>Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim. </li>
+<li>Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.</li>
+</ol>
+<p>Phasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue. Curabitur ullamcorper ultricies nisi. Nam eget dui. Etiam rhoncus. Maecenas tempus, tellus eget condimentum rhoncus, sem quam semper libero, sit amet adipiscing sem neque sed ipsum. Nam quam nunc, blandit vel, luctus pulvinar.</p>
+<p> </p>
+<p> </p>
+<p>jhjhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>video</title>
+        <author>
+            <name>tarik</name>
+        </author>
+        <link href="https://twirrek.github.io/Oncologue.net/video.html"/>
+        <id>https://twirrek.github.io/Oncologue.net/video.html</id>
+            <category term="poumon"/>
+
+        <updated>2024-10-14T01:28:36+02:00</updated>
+            <summary>
+                <![CDATA[
+                    kkjkljkljkj
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>kkjkljkljkj</p>
+            ]]>
+        </content>
+    </entry>
 </feed>
