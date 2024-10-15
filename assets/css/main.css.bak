@@ -1300,7 +1300,7 @@ sup {
   word-break: keep-all;
 }
 @media screen and (max-width: 736px) {
-	#header a {
+	#header {
 	  flex-flow: column wrap;
 	}
 }

@@ -155,8 +155,8 @@
 				$body.on('click touchend', function(event) {
 
 					// >large? Bail.
-						//if (breakpoints.active('>large'))
-						//	return;
+						if (breakpoints.active('>large'))
+							return;
 
 					// Deactivate.
 						$sidebar.addClass('inactive');
