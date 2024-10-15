@@ -3,9 +3,9 @@
     <title>Oncologue.Net</title>
     <link href="https://Oncologue.net/feed.xml" rel="self" />
     <link href="https://Oncologue.net" />
-    <updated>2024-10-14T18:11:47+02:00</updated>
+    <updated>2024-10-15T08:03:07+02:00</updated>
     <author>
-        <name>Dr Mohammed-Amine Bensakhria</name>
+        <name>Tarik</name>
     </author>
     <id>https://Oncologue.net</id>
 
@@ -58,7 +58,7 @@
         <link href="https://Oncologue.net/test-test/"/>
         <id>https://Oncologue.net/test-test/</id>
         <media:content url="https://Oncologue.net/media/posts/6/gastroenterologie-personnalise.jpg" medium="image" />
-            <category term="poumon"/>
+            <category term="Poumon"/>
             <category term="Gastro"/>
 
         <updated>2024-10-14T06:49:25+02:00</updated>
@@ -126,7 +126,7 @@
         <link href="https://Oncologue.net/waw/"/>
         <id>https://Oncologue.net/waw/</id>
         <media:content url="https://Oncologue.net/media/posts/4/poumons_ok.jpg" medium="image" />
-            <category term="poumon"/>
+            <category term="Poumon"/>
 
         <updated>2024-10-14T02:21:11+02:00</updated>
             <summary>
