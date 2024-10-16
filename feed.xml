@@ -3,7 +3,7 @@
     <title>Oncologue.Net</title>
     <link href="https://Oncologue.net/feed.xml" rel="self" />
     <link href="https://Oncologue.net" />
-    <updated>2024-10-15T08:03:07+02:00</updated>
+    <updated>2024-10-16T02:48:31+02:00</updated>
     <author>
         <name>Tarik</name>
     </author>
@@ -14,8 +14,8 @@
         <author>
             <name>Dr Mohammed-Amine Bensakhria</name>
         </author>
-        <link href="https://Oncologue.net/elections/"/>
-        <id>https://Oncologue.net/elections/</id>
+        <link href="https://Oncologue.net/elections-de-lordre-2024/"/>
+        <id>https://Oncologue.net/elections-de-lordre-2024/</id>
         <media:content url="https://Oncologue.net/media/posts/7/800px-ConseilnationaldelOrdredesmedecinslogo-2.jpg" medium="image" />
             <category term="Elections"/>
 
@@ -55,8 +55,8 @@
         <author>
             <name>Dr Mohammed-Amine Bensakhria</name>
         </author>
-        <link href="https://Oncologue.net/test-test/"/>
-        <id>https://Oncologue.net/test-test/</id>
+        <link href="https://Oncologue.net/gastro-poumon/"/>
+        <id>https://Oncologue.net/gastro-poumon/</id>
         <media:content url="https://Oncologue.net/media/posts/6/gastroenterologie-personnalise.jpg" medium="image" />
             <category term="Poumon"/>
             <category term="Gastro"/>
@@ -93,8 +93,8 @@
         <author>
             <name>Dr Mohammed-Amine Bensakhria</name>
         </author>
-        <link href="https://Oncologue.net/gastro/"/>
-        <id>https://Oncologue.net/gastro/</id>
+        <link href="https://Oncologue.net/gastro-1/"/>
+        <id>https://Oncologue.net/gastro-1/</id>
         <media:content url="https://Oncologue.net/media/posts/5/20042022_160436_25365_gastro-01.png" medium="image" />
             <category term="Gastro"/>
 
@@ -123,8 +123,8 @@
         <author>
             <name>Dr Mohammed-Amine Bensakhria</name>
         </author>
-        <link href="https://Oncologue.net/waw/"/>
-        <id>https://Oncologue.net/waw/</id>
+        <link href="https://Oncologue.net/poumon-1/"/>
+        <id>https://Oncologue.net/poumon-1/</id>
         <media:content url="https://Oncologue.net/media/posts/4/poumons_ok.jpg" medium="image" />
             <category term="Poumon"/>
 
@@ -157,8 +157,8 @@
         <author>
             <name>Dr Mohammed-Amine Bensakhria</name>
         </author>
-        <link href="https://Oncologue.net/video/"/>
-        <id>https://Oncologue.net/video/</id>
+        <link href="https://Oncologue.net/orl-1/"/>
+        <id>https://Oncologue.net/orl-1/</id>
         <media:content url="https://Oncologue.net/media/posts/1/41-1024x1024.png" medium="image" />
             <category term="ORL"/>
 
