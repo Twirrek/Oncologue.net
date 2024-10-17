@@ -1299,9 +1299,9 @@ sup {
 #header a {
   word-break: keep-all;
 }
-#header a span {
+/*#header a span {
   white-space: nowrap;
-}
+}*/
 @media screen and (max-width: 736px) {
 	#header {
 	  flex-flow: column wrap;
