@@ -1304,6 +1304,9 @@ sup {
 	  flex-flow: column wrap;
 	}
 }
+#header i {
+	  color: #13C043;
+	}
 /*#header span:nth-of-type(1) {
   white-space: wrap;
 }
