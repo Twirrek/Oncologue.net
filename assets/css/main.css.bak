@@ -1308,7 +1308,7 @@ sup {
 	}
 }
 #header i {
-	  color: #13C043;
+	  color: var(--color);
 	}
 /*#header span:nth-of-type(1) {
   white-space: wrap;

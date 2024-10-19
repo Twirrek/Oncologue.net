@@ -3,12 +3,92 @@
     <title>Oncologue.Net</title>
     <link href="https://Oncologue.net/feed.xml" rel="self" />
     <link href="https://Oncologue.net" />
-    <updated>2024-10-16T02:48:31+02:00</updated>
+    <updated>2024-10-19T13:10:05+02:00</updated>
     <author>
-        <name>Tarik</name>
+        <name>Dr Mohammed-Amine Bensakhria</name>
     </author>
     <id>https://Oncologue.net</id>
 
+    <entry>
+        <title>mise en page</title>
+        <author>
+            <name>Dr Mohammed-Amine Bensakhria</name>
+        </author>
+        <link href="https://Oncologue.net/mise-en-page/"/>
+        <id>https://Oncologue.net/mise-en-page/</id>
+
+        <updated>2024-10-19T12:44:21+02:00</updated>
+            <summary>
+                <![CDATA[
+                    fdsfdsfdsf La gastro-entérologie s'intéresse à l'ensemble du tube digestif, du pharynx jusqu'à l'anus, en passant par les organes digestifs intra-abdominaux&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p class="msg msg--highlight ">fdsfdsfdsf</p>
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 49.9288%;"> </td>
+<td style="width: 49.9288%;"><figure class="post__image"><img loading="lazy"  src="https://Oncologue.net/media/posts/9/41-1024x1024.png" alt="" width="1024" height="1024" sizes="(max-width: 48em) 100vw, 768px" srcset="https://Oncologue.net/media/posts/9/responsive/41-1024x1024-xs.png 300w ,https://Oncologue.net/media/posts/9/responsive/41-1024x1024-sm.png 480w ,https://Oncologue.net/media/posts/9/responsive/41-1024x1024-md.png 768w"></figure></td>
+</tr>
+<tr>
+<td style="width: 49.9288%;"> </td>
+<td style="width: 49.9288%;"> </td>
+</tr>
+</tbody>
+</table>
+<h3 id="Champ_général">Champ général</h3>
+<p>La gastro-entérologie s'intéresse à l'ensemble du <a href="https://fr.wikipedia.org/wiki/Syst%C3%A8me_digestif_humain" class="mw-redirect" title="Système digestif humain">tube digestif</a>, du <a href="https://fr.wikipedia.org/wiki/Pharynx" title="Pharynx">pharynx</a> jusqu'à l'anus, en passant par les organes digestifs intra-abdominaux que sont le foie, les voies biliaires et le pancréas (excepté dans sa fonction endocrine, qui relève de l'<a href="https://fr.wikipedia.org/wiki/Endocrinologie" title="Endocrinologie">endocrinologie</a>)<sup id="cite_ref-1" class="reference"><a href="https://fr.wikipedia.org/wiki/Gastro-ent%C3%A9rologie#cite_note-1">1</a></sup>. Si la gastro-entérologie est une spécialité médicale, les médecins la pratiquant réalisent couramment des actes techniques, comme les endoscopies digestives (par exemple <a href="https://fr.wikipedia.org/wiki/Endoscopie_digestive_haute" title="Endoscopie digestive haute">œso-gastro-duodénoscopie</a> et <a href="https://fr.wikipedia.org/wiki/Colonoscopie" class="mw-redirect" title="Colonoscopie">colonoscopie</a>) et des gestes utilisant des techniques de <a href="https://fr.wikipedia.org/wiki/Radiologie_interventionnelle" title="Radiologie interventionnelle">radiologie interventionnelle</a> (par exemple les <a href="https://fr.wikipedia.org/w/index.php?title=Cholangiographie&amp;action=edit&amp;redlink=1" class="new" title="Cholangiographie (page inexistante)">cholangiographies</a><sup id="cite_ref-2" class="reference"><a href="https://fr.wikipedia.org/wiki/Gastro-ent%C3%A9rologie#cite_note-2">2</a></sup>).</p>
+<p><br>fdsfdff</p>
+<p>jnjn;n;,n,;n;,nffffffffffffffffffffffffffffffffffffffffffffffg jhggggggggggggggggggggggggggggggggggggg</p>
+<p>llklklmkmk</p>
+<p>kkkjkl</p>
+<p>kkjlkj</p>
+<p> </p>
+<p>pllmlmlmll</p>
+<p>lklklklklk</p>
+<p>,kjkljklj</p>
+<p>hjhjhjhjhj</p>
+<p>kjkjkjkj</p>
+<p>jkjkjkjkj</p>
+<p>kjkjkjkjk</p>
+<p>kjjkkjkjkj</p>
+<p>kjkjkjk</p>
+<p>kjkjkjkjk</p>
+<p>khkhkkh</p>
+<p> </p>
+<p>ggggggggjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Bouton lien</title>
+        <author>
+            <name>Dr Mohammed-Amine Bensakhria</name>
+        </author>
+        <link href="https://Oncologue.net/bouton-lien/"/>
+        <id>https://Oncologue.net/bouton-lien/</id>
+            <category term="Elections"/>
+
+        <updated>2024-10-18T23:28:17+02:00</updated>
+            <summary>
+                <![CDATA[
+                    Lien test Lien test Lien test Lien test Lien test
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p><a href="https://Oncologue.net/elections-de-lordre-2024/"></a><a href="https://Oncologue.net/elections-de-lordre-2024/" title="lien" class="primary large fit"></a><a href="https://Oncologue.net/elections-de-lordre-2024/" title="Lien test" class="button">Lien test</a></p>
+<p><a href="https://Oncologue.net/elections-de-lordre-2024/" title="Lien test" class="button primary">Lien test</a></p>
+<p><a href="https://Oncologue.net/elections-de-lordre-2024/" title="Lien test" class="button large">Lien test</a></p>
+<p><a href="https://Oncologue.net/elections-de-lordre-2024/" title="Lien test" class="button small">Lien test</a></p>
+<p><a href="https://Oncologue.net/elections-de-lordre-2024/" title="Lien test" class="button fit">Lien test</a></p>
+<p> </p>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Elections de L&#x27;ordre 2024</title>
         <author>
