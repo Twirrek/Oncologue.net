@@ -3,7 +3,7 @@
     <title>Oncologue.Net</title>
     <link href="https://Oncologue.net/feed.xml" rel="self" />
     <link href="https://Oncologue.net" />
-    <updated>2024-10-19T23:55:02+02:00</updated>
+    <updated>2024-10-22T16:15:34+02:00</updated>
     <author>
         <name>Dr Mohammed-Amine Bensakhria</name>
     </author>
@@ -16,6 +16,9 @@
         </author>
         <link href="https://Oncologue.net/mise-en-page/"/>
         <id>https://Oncologue.net/mise-en-page/</id>
+            <category term="Vessie"/>
+            <category term="Sein"/>
+            <category term="Osseux"/>
 
         <updated>2024-10-19T12:44:21+02:00</updated>
             <summary>
@@ -62,7 +65,7 @@
 </tr>
 </tbody>
 </table>
-<p>kkjlkj</p>
+<p class="dropcap">kkjlkj</p>
 <p> </p>
 <p>pllmlmlmll</p>
 <p>lklklklklk</p>
@@ -157,7 +160,7 @@
         <id>https://Oncologue.net/gastro-poumon/</id>
         <media:content url="https://Oncologue.net/media/posts/6/gastroenterologie-personnalise.jpg" medium="image" />
             <category term="Poumon"/>
-            <category term="Gastro"/>
+            <category term="Colorectal"/>
 
         <updated>2024-10-14T06:49:25+02:00</updated>
             <summary>
@@ -194,7 +197,7 @@
         <link href="https://Oncologue.net/gastro-1/"/>
         <id>https://Oncologue.net/gastro-1/</id>
         <media:content url="https://Oncologue.net/media/posts/5/20042022_160436_25365_gastro-01.png" medium="image" />
-            <category term="Gastro"/>
+            <category term="Colorectal"/>
 
         <updated>2024-10-14T06:39:14+02:00</updated>
             <summary>

@@ -1357,7 +1357,7 @@ sup {
   max-width: var(--page--width);
   margin: 0 auto;
 }
-.post__inner.center {
+.post__inner.center, .page__inner.cente {
   text-align: center;
 }
 .post__image {

@@ -1,14 +1,17 @@
 /* 
  * Add your own CSS code for the WYSIWYG editor 
  */
-body#tinymce {
 
-    max-width: 1024px;
-	}
-.msg--highlightt {
+body#tinymce {
+    max-width: 800px;
+}
+/*
+.msg--highlight {
   background: #123456;
   border-color: #e7b600;
 }
-.msg--infos {
+.msg--info {
   background: #123456;
   border-color: #e7b600;
+}
+*/
