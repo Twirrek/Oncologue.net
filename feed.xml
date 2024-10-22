@@ -3,7 +3,7 @@
     <title>Oncologue.Net</title>
     <link href="https://Oncologue.net/feed.xml" rel="self" />
     <link href="https://Oncologue.net" />
-    <updated>2024-10-19T13:10:05+02:00</updated>
+    <updated>2024-10-19T23:55:02+02:00</updated>
     <author>
         <name>Dr Mohammed-Amine Bensakhria</name>
     </author>
@@ -20,12 +20,13 @@
         <updated>2024-10-19T12:44:21+02:00</updated>
             <summary>
                 <![CDATA[
-                    fdsfdsfdsf La gastro-entérologie s'intéresse à l'ensemble du tube digestif, du pharynx jusqu'à l'anus, en passant par les organes digestifs intra-abdominaux&hellip;
+                    fdsfdsfdsf nbjbbnbn,b,nb,nb,n La gastro-entérologie s'intéresse à l'ensemble du tube digestif, du pharynx jusqu'à l'anus, en passant par les organes digestifs&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <p class="msg msg--highlight ">fdsfdsfdsf</p>
+                <p class="msg msg--highlight  dropcap">fdsfdsfdsf</p>
+<p class="msg msg--test ">nbjbbnbn,b,nb,nb,n</p>
 <table style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>
 <tr>
@@ -39,11 +40,28 @@
 </tbody>
 </table>
 <h3 id="Champ_général">Champ général</h3>
-<p>La gastro-entérologie s'intéresse à l'ensemble du <a href="https://fr.wikipedia.org/wiki/Syst%C3%A8me_digestif_humain" class="mw-redirect" title="Système digestif humain">tube digestif</a>, du <a href="https://fr.wikipedia.org/wiki/Pharynx" title="Pharynx">pharynx</a> jusqu'à l'anus, en passant par les organes digestifs intra-abdominaux que sont le foie, les voies biliaires et le pancréas (excepté dans sa fonction endocrine, qui relève de l'<a href="https://fr.wikipedia.org/wiki/Endocrinologie" title="Endocrinologie">endocrinologie</a>)<sup id="cite_ref-1" class="reference"><a href="https://fr.wikipedia.org/wiki/Gastro-ent%C3%A9rologie#cite_note-1">1</a></sup>. Si la gastro-entérologie est une spécialité médicale, les médecins la pratiquant réalisent couramment des actes techniques, comme les endoscopies digestives (par exemple <a href="https://fr.wikipedia.org/wiki/Endoscopie_digestive_haute" title="Endoscopie digestive haute">œso-gastro-duodénoscopie</a> et <a href="https://fr.wikipedia.org/wiki/Colonoscopie" class="mw-redirect" title="Colonoscopie">colonoscopie</a>) et des gestes utilisant des techniques de <a href="https://fr.wikipedia.org/wiki/Radiologie_interventionnelle" title="Radiologie interventionnelle">radiologie interventionnelle</a> (par exemple les <a href="https://fr.wikipedia.org/w/index.php?title=Cholangiographie&amp;action=edit&amp;redlink=1" class="new" title="Cholangiographie (page inexistante)">cholangiographies</a><sup id="cite_ref-2" class="reference"><a href="https://fr.wikipedia.org/wiki/Gastro-ent%C3%A9rologie#cite_note-2">2</a></sup>).</p>
-<p><br>fdsfdff</p>
-<p>jnjn;n;,n,;n;,nffffffffffffffffffffffffffffffffffffffffffffffg jhggggggggggggggggggggggggggggggggggggg</p>
-<p>llklklmkmk</p>
-<p>kkkjkl</p>
+<p class="dropcap">La gastro-entérologie s'intéresse à l'ensemble du <a href="https://fr.wikipedia.org/wiki/Syst%C3%A8me_digestif_humain" class="mw-redirect" title="Système digestif humain">tube digestif</a>, du <a href="https://fr.wikipedia.org/wiki/Pharynx" title="Pharynx">pharynx</a> jusqu'à l'anus, en passant par les organes digestifs intra-abdominaux que sont le foie, les voies biliaires et le pancréas (excepté dans sa fonction endocrine, qui relève de l'<a href="https://fr.wikipedia.org/wiki/Endocrinologie" title="Endocrinologie">endocrinologie</a>)<sup id="cite_ref-1" class="reference"><a href="https://fr.wikipedia.org/wiki/Gastro-ent%C3%A9rologie#cite_note-1">1</a></sup>. Si la gastro-entérologie est une spécialité médicale, les médecins la pratiquant réalisent couramment des actes techniques, comme les endoscopies digestives (par exemple <a href="https://fr.wikipedia.org/wiki/Endoscopie_digestive_haute" title="Endoscopie digestive haute">œso-gastro-duodénoscopie</a> et <a href="https://fr.wikipedia.org/wiki/Colonoscopie" class="mw-redirect" title="Colonoscopie">colonoscopie</a>) et des gestes utilisant des techniques de <a href="https://fr.wikipedia.org/wiki/Radiologie_interventionnelle" title="Radiologie interventionnelle">radiologie interventionnelle</a> (par exemple les <a href="https://fr.wikipedia.org/w/index.php?title=Cholangiographie&amp;action=edit&amp;redlink=1" class="new" title="Cholangiographie (page inexistante)">cholangiographies</a><sup id="cite_ref-2" class="reference"><a href="https://fr.wikipedia.org/wiki/Gastro-ent%C3%A9rologie#cite_note-2">2</a></sup>).</p>
+<p class="msg msg--info"><br>fdsfdff</p>
+<p class="msg msg--highlight ">jnjn;n;,n,;n;,nffffffffffffffffffffffffffffffffffffffffffffffg jhggggggggggggggggggggggggggggggggggggg</p>
+<p class="msg msg--success">llklklmkmk</p>
+<p class="msg msg--warning">kkkjkl</p>
+<p class="msg msg--test  ">jjjjjjjjjjj</p>
+<p class="msg msg--test ">kjkjkjkjkjkjkjk</p>
+<p class="msg msg--highlight "> </p>
+<p class="msg msg--success"> </p>
+<p class="msg msg--info"> </p>
+<table style="border-collapse: collapse; width: 114.387%; height: 121px;" border="1">
+<tbody>
+<tr style="height: 60.5px;">
+<td style="width: 50.0713%; height: 60.5px;"> </td>
+<td style="width: 50.0713%; height: 60.5px;"> </td>
+</tr>
+<tr style="height: 60.5px;">
+<td style="width: 50.0713%; height: 60.5px;"> </td>
+<td style="width: 50.0713%; height: 60.5px;"> </td>
+</tr>
+</tbody>
+</table>
 <p>kkjlkj</p>
 <p> </p>
 <p>pllmlmlmll</p>

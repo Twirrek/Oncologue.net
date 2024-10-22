@@ -5,3 +5,10 @@ body#tinymce {
 
     max-width: 1024px;
 	}
+.msg--highlightt {
+  background: #123456;
+  border-color: #e7b600;
+}
+.msg--infos {
+  background: #123456;
+  border-color: #e7b600;

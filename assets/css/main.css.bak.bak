@@ -1289,11 +1289,6 @@ sup {
   margin-right: auto;
   max-width: 760px;
 }
-.image.medium {
-  margin-left: auto;
-  margin-right: auto;
-  max-width: 1024px;
-}
 
 #header .logo-image > img {
   height: 2.5em;
@@ -1350,14 +1345,10 @@ sup {
   text-transform: uppercase;
 }
 .post__inner {
-  max-width: var(--post--width);
+  max-width: 1024px;
   margin: 0 auto;
 }
-.page__inner {
-  max-width: var(--page--width);
-  margin: 0 auto;
-}
-.post__inner.center, .page__inner.cente {
+.post__inner.center {
   text-align: center;
 }
 .post__image {
