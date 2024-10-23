@@ -3,7 +3,7 @@
     <title>Oncologue.Net</title>
     <link href="https://Oncologue.net/feed.xml" rel="self" />
     <link href="https://Oncologue.net" />
-    <updated>2024-10-22T16:15:34+02:00</updated>
+    <updated>2024-10-23T13:42:59+02:00</updated>
     <author>
         <name>Dr Mohammed-Amine Bensakhria</name>
     </author>
@@ -16,18 +16,22 @@
         </author>
         <link href="https://Oncologue.net/mise-en-page/"/>
         <id>https://Oncologue.net/mise-en-page/</id>
+        <media:content url="https://Oncologue.net/media/posts/9/traitementcancerducerveaucerebrale.jpg" medium="image" />
             <category term="Vessie"/>
             <category term="Sein"/>
             <category term="Osseux"/>
+            <category term="Cerveau"/>
 
         <updated>2024-10-19T12:44:21+02:00</updated>
             <summary>
                 <![CDATA[
+                        <img src="https://Oncologue.net/media/posts/9/traitementcancerducerveaucerebrale.jpg" alt="" />
                     fdsfdsfdsf nbjbbnbn,b,nb,nb,n La gastro-entérologie s'intéresse à l'ensemble du tube digestif, du pharynx jusqu'à l'anus, en passant par les organes digestifs&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
+                    <p><img src="https://Oncologue.net/media/posts/9/traitementcancerducerveaucerebrale.jpg" class="type:primaryImage" alt="" /></p>
                 <p class="msg msg--highlight  dropcap">fdsfdsfdsf</p>
 <p class="msg msg--test ">nbjbbnbn,b,nb,nb,n</p>
 <table style="border-collapse: collapse; width: 100%;" border="1">
