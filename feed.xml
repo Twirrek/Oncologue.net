@@ -3,7 +3,7 @@
     <title>Oncologue.Net</title>
     <link href="https://Oncologue.net/feed.xml" rel="self" />
     <link href="https://Oncologue.net" />
-    <updated>2024-10-27T02:44:19+01:00</updated>
+    <updated>2024-10-27T13:35:40+01:00</updated>
     <author>
         <name>Dr Mohammed-Amine Bensakhria</name>
     </author>
@@ -24,7 +24,7 @@
             <summary>
                 <![CDATA[
                         <img src="https://Oncologue.net/media/posts/11/WhatsApp-Image-2022-01-25-at-8.59.54-PM.jpeg" alt="" />
-                    test de lien ORL ELECT
+                    test de lien ORL ELECT&nbsp; test&nbsp;
                 ]]>
             </summary>
         <content type="html">
@@ -32,7 +32,11 @@
                     <p><img src="https://Oncologue.net/media/posts/11/WhatsApp-Image-2022-01-25-at-8.59.54-PM.jpeg" class="type:primaryImage" alt="" /></p>
                 
   <p>
-    test de lien ORL ELECT
+    test de lien ORL ELECT&nbsp;
+  </p>
+
+  <p>
+    test&nbsp;
   </p>
             ]]>
         </content>
