@@ -3,14 +3,69 @@
     <title>Oncologue.Net</title>
     <link href="https://Oncologue.net/feed.xml" rel="self" />
     <link href="https://Oncologue.net" />
-    <updated>2024-10-23T13:42:59+02:00</updated>
+    <updated>2024-10-27T02:44:19+01:00</updated>
     <author>
         <name>Dr Mohammed-Amine Bensakhria</name>
     </author>
     <id>https://Oncologue.net</id>
 
     <entry>
-        <title>mise en page</title>
+        <title>ORL2</title>
+        <author>
+            <name>Dr Mohammed-Amine Bensakhria</name>
+        </author>
+        <link href="https://Oncologue.net/orl2/"/>
+        <id>https://Oncologue.net/orl2/</id>
+        <media:content url="https://Oncologue.net/media/posts/11/WhatsApp-Image-2022-01-25-at-8.59.54-PM.jpeg" medium="image" />
+            <category term="Poumon"/>
+            <category term="ORL"/>
+
+        <updated>2024-10-23T17:39:11+02:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://Oncologue.net/media/posts/11/WhatsApp-Image-2022-01-25-at-8.59.54-PM.jpeg" alt="" />
+                    test de lien ORL ELECT
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://Oncologue.net/media/posts/11/WhatsApp-Image-2022-01-25-at-8.59.54-PM.jpeg" class="type:primaryImage" alt="" /></p>
+                
+  <p>
+    test de lien ORL ELECT
+  </p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Test de related post</title>
+        <author>
+            <name>Dr Mohammed-Amine Bensakhria</name>
+        </author>
+        <link href="https://Oncologue.net/test-de-related-post/"/>
+        <id>https://Oncologue.net/test-de-related-post/</id>
+        <media:content url="https://Oncologue.net/media/posts/10/dino-reichmuth-A5rCN8626Ck-unsplash-xxl.jpg" medium="image" />
+            <category term="Elections"/>
+
+        <updated>2024-10-23T16:34:02+02:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://Oncologue.net/media/posts/10/dino-reichmuth-A5rCN8626Ck-unsplash-xxl.jpg" alt="" />
+                    Lien test Lien test Lien test Lien test
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://Oncologue.net/media/posts/10/dino-reichmuth-A5rCN8626Ck-unsplash-xxl.jpg" class="type:primaryImage" alt="" /></p>
+                
+  <p>
+    Lien test<br><br>Lien test<br><br>Lien test<br><br>Lien test
+  </p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Post Cerveau 1</title>
         <author>
             <name>Dr Mohammed-Amine Bensakhria</name>
         </author>
@@ -19,14 +74,17 @@
         <media:content url="https://Oncologue.net/media/posts/9/traitementcancerducerveaucerebrale.jpg" medium="image" />
             <category term="Vessie"/>
             <category term="Sein"/>
+            <category term="Poumon"/>
             <category term="Osseux"/>
+            <category term="ORL"/>
+            <category term="Colorectal"/>
             <category term="Cerveau"/>
 
         <updated>2024-10-19T12:44:21+02:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://Oncologue.net/media/posts/9/traitementcancerducerveaucerebrale.jpg" alt="" />
-                    fdsfdsfdsf nbjbbnbn,b,nb,nb,n La gastro-entérologie s'intéresse à l'ensemble du tube digestif, du pharynx jusqu'à l'anus, en passant par les organes digestifs&hellip;
+                    fdsfdsfdsf nbjbbnbn,b,nb,nb,n La gastro-entérologie s'intéresse à l'ensemble du tube digestif, du pharynx jusqu'à l'anus, en passant par les organes digestifs intra-abdominaux que sont le foie, les voies biliaires et le pancréas (excepté dans sa fonction endocrine, qui relève de l'endocrinologie)1. Si la gastro-entérologie est une&hellip;
                 ]]>
             </summary>
         <content type="html">
@@ -38,7 +96,7 @@
 <tbody>
 <tr>
 <td style="width: 49.9288%;"> </td>
-<td style="width: 49.9288%;"><figure class="post__image"><img loading="lazy"  src="https://Oncologue.net/media/posts/9/41-1024x1024.png" alt="" width="1024" height="1024" sizes="(max-width: 48em) 100vw, 768px" srcset="https://Oncologue.net/media/posts/9/responsive/41-1024x1024-xs.png 300w ,https://Oncologue.net/media/posts/9/responsive/41-1024x1024-sm.png 480w ,https://Oncologue.net/media/posts/9/responsive/41-1024x1024-md.png 768w"></figure></td>
+<td style="width: 49.9288%;"><figure class="post__image"><img loading="lazy"  src="https://Oncologue.net/media/posts/9/41-1024x1024.png" alt="" width="1024" height="1024" sizes="(max-width: 48em) 100vw, 768px" srcset="https://Oncologue.net/media/posts/9/responsive/41-1024x1024-xs.png 300w ,https://Oncologue.net/media/posts/9/responsive/41-1024x1024-sm.png 480w ,https://Oncologue.net/media/posts/9/responsive/41-1024x1024-md.png 768w ,https://Oncologue.net/media/posts/9/responsive/41-1024x1024-lg.png 1024w ,https://Oncologue.net/media/posts/9/responsive/41-1024x1024-xl.png 1360w ,https://Oncologue.net/media/posts/9/responsive/41-1024x1024-2xl.png 1600w"></figure></td>
 </tr>
 <tr>
 <td style="width: 49.9288%;"> </td>
@@ -94,16 +152,20 @@
         </author>
         <link href="https://Oncologue.net/bouton-lien/"/>
         <id>https://Oncologue.net/bouton-lien/</id>
+        <media:content url="https://Oncologue.net/media/posts/8/2022-03-29-Elections-1-833x540.png" medium="image" />
             <category term="Elections"/>
+            <category term="Colorectal"/>
 
         <updated>2024-10-18T23:28:17+02:00</updated>
             <summary>
                 <![CDATA[
+                        <img src="https://Oncologue.net/media/posts/8/2022-03-29-Elections-1-833x540.png" alt="" />
                     Lien test Lien test Lien test Lien test Lien test
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
+                    <p><img src="https://Oncologue.net/media/posts/8/2022-03-29-Elections-1-833x540.png" class="type:primaryImage" alt="" /></p>
                 <p><a href="https://Oncologue.net/elections-de-lordre-2024/"></a><a href="https://Oncologue.net/elections-de-lordre-2024/" title="lien" class="primary large fit"></a><a href="https://Oncologue.net/elections-de-lordre-2024/" title="Lien test" class="button">Lien test</a></p>
 <p><a href="https://Oncologue.net/elections-de-lordre-2024/" title="Lien test" class="button primary">Lien test</a></p>
 <p><a href="https://Oncologue.net/elections-de-lordre-2024/" title="Lien test" class="button large">Lien test</a></p>
@@ -128,7 +190,7 @@
             <summary>
                 <![CDATA[
                         <img src="https://Oncologue.net/media/posts/7/800px-ConseilnationaldelOrdredesmedecinslogo-2.jpg" alt="" />
-                    Tous les membres des conseils de l'Ordre sont élus par les médecins pour six ans. En s’engageant dans les territoires,&hellip;
+                    Tous les membres des conseils de l'Ordre sont élus par les médecins pour six ans. En s’engageant dans les territoires, les élus ordinaux constituent les fondations de l’Institution. Les mandats ont une durée de 6 ans et le renouvellement des conseils s’effectue par moitié tous&hellip;
                 ]]>
             </summary>
         <content type="html">
@@ -207,7 +269,7 @@
             <summary>
                 <![CDATA[
                         <img src="https://Oncologue.net/media/posts/5/20042022_160436_25365_gastro-01.png" alt="" />
-                    Champ général La gastro-entérologie s'intéresse à l'ensemble du tube digestif, du pharynx jusqu'à l'anus, en passant par les organes digestifs&hellip;
+                    Champ général La gastro-entérologie s'intéresse à l'ensemble du tube digestif, du pharynx jusqu'à l'anus, en passant par les organes digestifs intra-abdominaux que sont le foie, les voies biliaires et le pancréas (excepté dans sa fonction endocrine, qui relève de l'endocrinologie)1. Si la gastro-entérologie est une&hellip;
                 ]]>
             </summary>
         <content type="html">
@@ -237,13 +299,13 @@
             <summary>
                 <![CDATA[
                         <img src="https://Oncologue.net/media/posts/4/poumons_ok.jpg" alt="" />
-                    Aenean ornare velit lacus, ac varius enim ullamcorper eu. Proin aliquam facilisis ante interdum congue. Integer mollis, nisl amet convallis,&hellip;
+                    Aenean ornare velit lacus, ac varius enim ullamcorper eu. Proin aliquam facilisis ante interdum congue. Integer mollis, nisl amet convallis, porttitor magna ullamcorper, amet egestas mauris. Ut magna finibus nisi nec lacinia. Nam maximus erat id euismod egestas. Pellentesque sapien ac quam. Lorem ipsum dolor&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                     <p><img src="https://Oncologue.net/media/posts/4/poumons_ok.jpg" class="type:primaryImage" alt="" /></p>
-                <figure class="post__image post__image--left"><img loading="lazy"  src="https://Oncologue.net/media/posts/4/who-s-denilo-SxwS5ywwOhc-unsplash-xxl.jpg" alt="" width="1600" height="1067" sizes="(max-width: 48em) 100vw, 768px" srcset="https://Oncologue.net/media/posts/4/responsive/who-s-denilo-SxwS5ywwOhc-unsplash-xxl-xs.jpg 300w ,https://Oncologue.net/media/posts/4/responsive/who-s-denilo-SxwS5ywwOhc-unsplash-xxl-sm.jpg 480w ,https://Oncologue.net/media/posts/4/responsive/who-s-denilo-SxwS5ywwOhc-unsplash-xxl-md.jpg 768w"></figure>
+                <figure class="post__image post__image--left"><img loading="lazy"  src="https://Oncologue.net/media/posts/4/who-s-denilo-SxwS5ywwOhc-unsplash-xxl.jpg" alt="" width="1600" height="1067" sizes="(max-width: 48em) 100vw, 768px" srcset="https://Oncologue.net/media/posts/4/responsive/who-s-denilo-SxwS5ywwOhc-unsplash-xxl-xs.jpg 300w ,https://Oncologue.net/media/posts/4/responsive/who-s-denilo-SxwS5ywwOhc-unsplash-xxl-sm.jpg 480w ,https://Oncologue.net/media/posts/4/responsive/who-s-denilo-SxwS5ywwOhc-unsplash-xxl-md.jpg 768w ,https://Oncologue.net/media/posts/4/responsive/who-s-denilo-SxwS5ywwOhc-unsplash-xxl-lg.jpg 1024w ,https://Oncologue.net/media/posts/4/responsive/who-s-denilo-SxwS5ywwOhc-unsplash-xxl-xl.jpg 1360w ,https://Oncologue.net/media/posts/4/responsive/who-s-denilo-SxwS5ywwOhc-unsplash-xxl-2xl.jpg 1600w"></figure>
 <p>Aenean ornare velit lacus, ac varius enim ullamcorper eu. Proin aliquam facilisis ante interdum congue. Integer mollis, nisl amet convallis, porttitor magna ullamcorper, amet egestas mauris. Ut magna finibus nisi nec lacinia. Nam maximus erat id euismod egestas. Pellentesque sapien ac quam. Lorem ipsum dolor sit nullam.</p>
 <h2><strong>Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem:</strong> </h2>
 <ol>
@@ -271,7 +333,7 @@
             <summary>
                 <![CDATA[
                         <img src="https://Oncologue.net/media/posts/1/41-1024x1024.png" alt="" />
-                    Un cancer des voies aérodigestives supérieures (ou improprement cancer de la tête et du cou) est un cancer localisé au&hellip;
+                    Un cancer des voies aérodigestives supérieures (ou improprement cancer de la tête et du cou) est un cancer localisé au niveau des voies aérodigestives supérieures, ce qui regroupe les sinus, les fosses nasales, le pharynx (composé du nasopharynx, de l'oropharynx et de l'hypopharynx), la cavité&hellip;
                 ]]>
             </summary>
         <content type="html">
