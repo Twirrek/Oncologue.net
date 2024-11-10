@@ -17,8 +17,8 @@
         <link href="https://Oncologue.net/orl2/"/>
         <id>https://Oncologue.net/orl2/</id>
         <media:content url="https://Oncologue.net/media/posts/11/WhatsApp-Image-2022-01-25-at-8.59.54-PM.jpeg" medium="image" />
-            <category term="poumon"/>
-            <category term="orl"/>
+            <category term="Poumon"/>
+            <category term="ORL"/>
 
         <updated>2024-10-23T17:39:11+02:00</updated>
             <summary>
@@ -49,7 +49,7 @@
         <link href="https://Oncologue.net/test-de-related-post/"/>
         <id>https://Oncologue.net/test-de-related-post/</id>
         <media:content url="https://Oncologue.net/media/posts/10/dino-reichmuth-A5rCN8626Ck-unsplash-xxl.jpg" medium="image" />
-            <category term="elections"/>
+            <category term="Elections"/>
 
         <updated>2024-10-23T16:34:02+02:00</updated>
             <summary>
@@ -76,12 +76,12 @@
         <link href="https://Oncologue.net/mise-en-page/"/>
         <id>https://Oncologue.net/mise-en-page/</id>
         <media:content url="https://Oncologue.net/media/posts/9/traitementcancerducerveaucerebrale.jpg" medium="image" />
-            <category term="poumon"/>
-            <category term="orl"/>
-            <category term="colorectal"/>
             <category term="Vessie"/>
             <category term="Sein"/>
+            <category term="Poumon"/>
             <category term="Osseux"/>
+            <category term="ORL"/>
+            <category term="Colorectal"/>
             <category term="Cerveau"/>
 
         <updated>2024-10-19T12:44:21+02:00</updated>
@@ -157,8 +157,8 @@
         <link href="https://Oncologue.net/bouton-lien/"/>
         <id>https://Oncologue.net/bouton-lien/</id>
         <media:content url="https://Oncologue.net/media/posts/8/2022-03-29-Elections-1-833x540.png" medium="image" />
-            <category term="elections"/>
-            <category term="colorectal"/>
+            <category term="Elections"/>
+            <category term="Colorectal"/>
 
         <updated>2024-10-18T23:28:17+02:00</updated>
             <summary>
@@ -188,7 +188,7 @@
         <link href="https://Oncologue.net/elections-de-lordre-2024/"/>
         <id>https://Oncologue.net/elections-de-lordre-2024/</id>
         <media:content url="https://Oncologue.net/media/posts/7/800px-ConseilnationaldelOrdredesmedecinslogo-2.jpg" medium="image" />
-            <category term="elections"/>
+            <category term="Elections"/>
 
         <updated>2024-10-14T17:07:09+02:00</updated>
             <summary>
@@ -229,8 +229,8 @@
         <link href="https://Oncologue.net/gastro-poumon/"/>
         <id>https://Oncologue.net/gastro-poumon/</id>
         <media:content url="https://Oncologue.net/media/posts/6/gastroenterologie-personnalise.jpg" medium="image" />
-            <category term="poumon"/>
-            <category term="colorectal"/>
+            <category term="Poumon"/>
+            <category term="Colorectal"/>
 
         <updated>2024-10-14T06:49:25+02:00</updated>
             <summary>
@@ -267,7 +267,7 @@
         <link href="https://Oncologue.net/gastro-1/"/>
         <id>https://Oncologue.net/gastro-1/</id>
         <media:content url="https://Oncologue.net/media/posts/5/20042022_160436_25365_gastro-01.png" medium="image" />
-            <category term="colorectal"/>
+            <category term="Colorectal"/>
 
         <updated>2024-10-14T06:39:14+02:00</updated>
             <summary>
@@ -297,7 +297,7 @@
         <link href="https://Oncologue.net/poumon-1/"/>
         <id>https://Oncologue.net/poumon-1/</id>
         <media:content url="https://Oncologue.net/media/posts/4/poumons_ok.jpg" medium="image" />
-            <category term="poumon"/>
+            <category term="Poumon"/>
 
         <updated>2024-10-14T02:21:11+02:00</updated>
             <summary>
@@ -331,7 +331,7 @@
         <link href="https://Oncologue.net/orl-1/"/>
         <id>https://Oncologue.net/orl-1/</id>
         <media:content url="https://Oncologue.net/media/posts/1/41-1024x1024.png" medium="image" />
-            <category term="orl"/>
+            <category term="ORL"/>
 
         <updated>2024-10-14T01:28:36+02:00</updated>
             <summary>
